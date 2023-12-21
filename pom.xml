@@ -90,7 +90,7 @@
         <jacoco.version>0.7.9</jacoco.version>
         <maven-jar-plugin.version>3.1.0</maven-jar-plugin.version>
         <sundrio.version>0.91.1</sundrio.version>
-        <fabric8.kubernetes-client.version>6.0.0</fabric8.kubernetes-client.version>
+        <fabric8.kubernetes-client.version>6.9.2</fabric8.kubernetes-client.version>
         <fabric8.openshift-client.version>6.0.0</fabric8.openshift-client.version>
         <fabric8.kubernetes-model.version>6.0.0</fabric8.kubernetes-model.version>
         <fabric8.zjsonpatch.version>0.3.0</fabric8.zjsonpatch.version>
